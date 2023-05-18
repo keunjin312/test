@@ -18,5 +18,20 @@
     <ClCompile Include="cppp.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="clang1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="tset.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
